@@ -1,0 +1,99 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.parent{
+  border: 3px solid rgb(11, 14, 1);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.NavBar{
+   width:50em;
+  background-color: rgb(184, 181, 181);
+  border-radius: 10px;
+  border: 3px solid black;
+}
+
+.riddlebtn{
+  background-color:greenyellow;
+  margin: 5px;
+  border-radius: 10px; 
+  margin-right: 28em;
+  
+}
+
+.favouritebtn{
+   background-color:rgb(173, 255, 47);
+  margin: 5px;
+  border-radius: 10px;
+}
+
+
+.riddlesDiv{
+  margin-top: 10px;
+  width: 50em;
+  height: 20em;
+  background-color:rgb(184, 181, 181) ;
+  border-radius: 10px;
+  box-shadow: 10px 5px 30px rgba(200, 255, 2, 0.6);
+  
+}
+
+.favouritesDiv{
+  margin-top: 10px;
+  width: 50em;
+  height: 20em;
+  background-color:rgb(184, 181, 181) ;
+  border-radius: 10px;
+}
+
+
+.addFavbtn{
+  align-self:last baseline;
+}
+
+
+
+ 
+
+
+/* 
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+} */
